@@ -1,0 +1,45 @@
+
+
+body{
+    background-color: black;
+    margin: 0px;
+}
+
+#product{
+    color: #00FF73;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 50px;
+    margin-left: 400px;
+    padding-top: 100px;
+    /* display: flex;
+    align-items: center;
+    justify-content: centre; */
+    display: inline-block;
+}
+
+#product_name{
+    background-color: rgb(78, 79, 80);
+    border: 3px #00FF73 solid;
+    border-radius: 10px;
+    margin-top: 200px;
+    margin-left:570px ;
+    width: 35%;
+    height: 50px;
+    font-size:30px;
+    color:blanchedalmond;
+    text-align:center;
+}
+
+#submit{
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 870px;
+    background-color: rgb(48, 46, 46);
+    height:35px;
+    width: 83px;
+    font-size: 20px;
+    border: #00FF73 1px solid;
+    color: #00FF73;
+    border-radius: 10px;
+    
+}

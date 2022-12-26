@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: #00FF73;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;   
+}
+
+#page{
+    margin-top: 350px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: 1px #00FF73 solid;
+    border-radius: 10px;
+    background-color: #222222;
+}
